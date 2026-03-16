@@ -1,0 +1,9 @@
+sex
+education
+age
+apoe4
+moca
+av45
+tau
+brain_volume
+ventricular_volume

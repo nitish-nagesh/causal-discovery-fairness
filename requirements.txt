@@ -1,0 +1,20 @@
+# cd-fair-arxiv: Causal Discovery and Fairness Analysis
+# Python 3.10+ required
+
+numpy>=1.20
+pandas>=1.3
+scikit-learn>=1.0
+networkx>=2.6
+matplotlib>=3.4
+scipy>=1.7
+
+# Causal discovery
+gcastle>=0.2.0
+causal-learn>=0.1.3
+
+# AD pipeline (DAGMA, DAG-GNN)
+dagma
+torch>=1.9
+
+# HF data fetching (fallback)
+ucimlrepo>=0.0.3

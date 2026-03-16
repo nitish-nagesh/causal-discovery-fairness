@@ -1,0 +1,13 @@
+gender
+smoking
+high_bp
+diabetes
+cpk
+serum_sodium
+serum_creatinine
+ejection_fraction
+anaemia
+platelets
+age
+time
+death_event

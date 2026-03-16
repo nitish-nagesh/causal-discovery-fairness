@@ -1,0 +1,5 @@
+graph,mediators,confounders,n_edges
+ground_truth,"diabetes,ejection_fraction,high_bp,serum_creatinine,smoking","age,anaemia,serum_sodium,time",21
+PC,,"age,serum_creatinine",12
+GES,ejection_fraction,"high_bp,platelets,smoking,time",16
+FCI,ejection_fraction,"age,anaemia,cpk,high_bp,serum_creatinine,serum_sodium,time",11
