@@ -1,6 +1,5 @@
 # Evaluating Causal Discovery Algorithms for Path-Specific Fairness and Utility in Healthcare
 
-Reproducible code for the paper: *Evaluating Causal Discovery Algorithms for Path-Specific Fairness and Utility in Healthcare*.
 
 ## Setup
 
